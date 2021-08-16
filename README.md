@@ -1,4 +1,4 @@
 # DataAnalysis
 
 
-Example on using ML to do the analysis using Random Forest
+Example on using ML (SK learn Random Forest) to do the analysis
